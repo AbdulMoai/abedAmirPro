@@ -1,0 +1,175 @@
+
+     [
+      {
+       
+        "question": "How do you write 'Hello World' in an alert box?",
+        "choice1": "msgBox('Hello World');",
+        "choice2": "alertBox('Hello World');",
+        "choice3": "msg('Hello World');",
+        "choice4": "alert('Hello World');",
+        "answer": 4
+      },
+      {
+       
+        "question": "What does CSS stand for?",
+        "choice1": "Colorful Style Sheets",
+        "choice2": "Computer Style Sheets",
+        "choice3": "Creative Style Sheets",
+        "choice4": "Cascading Style Sheets",
+        "answer": 4
+      },
+      {
+       
+        "question": "What is the capital of Australia?",
+        "choice1": "Sydney",
+        "choice2": "Melbourne",
+        "choice3": "Canberra",
+        "choice4": "Brisbane",
+        "answer": 3
+      },
+      {
+        
+        "question": "Who is the CEO of SpaceX?",
+        "choice1": "Jeff Bezos",
+        "choice2": "Elon Musk",
+        "choice3": "Tim Cook",
+        "choice4": "Mark Zuckerberg",
+        "answer": 2
+      },
+      {
+        
+        "question": "What is the largest organ in the human body?",
+        "choice1": "Brain",
+        "choice2": "Liver",
+        "choice3": "Skin",
+        "choice4": "Heart",
+        "answer": 3
+      },
+      {
+        "id": 21,
+        "question": "What is the smallest country in the world by land area?",
+        "choice1": "Vatican City",
+        "choice2": "Monaco",
+        "choice3": "Nauru",
+        "choice4": "San Marino",
+        "answer": 1
+      },
+      {
+        
+        "question": "What is the name of the highest mountain in North America?",
+        "choice1": "Mount Denali",
+        "choice2": "Mount Whitney",
+        "choice3": "Mount Logan",
+        "choice4": "Mount Rainier",
+        "answer": 1
+      },
+      {
+      
+        "question": "Which planet in our solar system is the hottest?",
+        "choice1": "Mercury",
+        "choice2": "Venus",
+        "choice3": "Mars",
+        "choice4": "Jupiter",
+        "answer": 2
+      },
+      {
+        
+        "question": "What is the largest country in South America?",
+        "choice1": "Argentina",
+        "choice2": "Brazil",
+        "choice3": "Chile",
+        "choice4": "Peru",
+        "answer": 2
+      },
+      {
+       
+        "question": "What is the currency of Japan?",
+        "choice1": "Yen",
+        "choice2": "Euro",
+        "choice3": "Dollar",
+        "choice4": "Pound",
+        "answer": 1
+      },
+      {
+        
+
+        "question": "What is the smallest ocean in the world by surface area?",
+        "choice1": "Arctic Ocean",
+        "choice2": "Atlantic Ocean",
+        "choice3": "Indian Ocean",
+        "choice4": "Southern Ocean",
+        "answer": 4
+      },
+      {
+        "question":"What is the highest-grossing movie of all time?",
+        "choice1": "Titanic",
+        "choice2": "Avatar",
+        "choice3": "Avengers: Endgame",
+        "choice4": "Star Wars: The Force Awakens",
+        "answer": 3
+      },
+      {
+        "question":"Who is the current President of the United States?",
+        "choice1": "Donald Trump",
+        "choice2": "Barack Obama",
+        "choice3": "Joe Biden",
+        "choice4": "George W. Bush",
+        "answer": 3
+      },
+      {
+        "question":"What is the largest planet in our solar system?",
+        "choice1": "Earth",
+        "choice2": "Mars",
+        "choice3": "Jupiter",
+        "choice4": "Saturn",
+        "answer": 3
+      },
+      {
+        "question":"Who wrote the novel 'Pride and Prejudice'?",
+        "choice1": "Charles Dickens",
+        "choice2": "Jane Austen",
+        "choice3": "Emily Bronte",
+        "choice4": "Virginia Woolf",
+        "answer": 2
+      },
+      {
+        "question":"What is the chemical symbol for gold?",
+        "choice1": "Ag",
+        "choice2": "Au",
+        "choice3": "Cu",
+        "choice4": "Fe",
+        "answer": 2
+      },
+      { 
+        "question":"What is the largest island in the world by land area?",
+        "choice1": "Greenland",
+        "choice2": "Madagascar",
+        "choice3": "Borneo",
+        "choice4": "Honshu",
+        "answer": 1
+    }, 
+    {
+        "question":"What is the name of the largest waterfall in the world by volume?",
+        "choice1": "Niagara Falls",
+        "choice2": "Victoria Falls",
+        "choice3": "Angel Falls",
+        "choice4": "Iguazu Falls",
+        "answer": 3
+    },
+    {
+        "question":"Who painted the famous artwork 'Starry Night'?",
+        "choice1": "Pablo Picasso",
+        "choice2": "Vincent van Gogh",
+        "choice3": "Leonardo da Vinci",
+        "choice4": "Michelangelo",
+        "answer": 2
+    },
+    {
+        "question":"What is the largest animal on Earth?",
+        "choice1": "Blue Whale",
+        "choice2": "African Elephant",
+        "choice3": "Giraffe",
+        "choice4": "Hippopotamus",
+        "answer": 1
+    }   
+    ]
