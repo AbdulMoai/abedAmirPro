@@ -4,7 +4,7 @@
     margin-bottom: 0.5rem;
     width: 100%;
     font-size: 1.8rem;
-    border: 0.1rem solid #283b8a;
+    border: 0.1rem solid rgb(86, 165, 235, 0.25);
     background-color: rgb(255, 255, 255);
   }
   
@@ -60,13 +60,13 @@
   #progressBar {
     width: 20rem;
     height: 4rem;
-    border: 0.3rem solid #283b8a;
+    border: 0.3rem solid white;
     margin-top: 1.5rem;
   }
   
   #progressBarFull {
     height: 3.4rem;
-    background-color: #283b8a;
+    background-color: white;
     width: 0%;
   }
   
