@@ -1,22 +1,23 @@
 .choice-container {
+  font-family: 'Montserrat', sans-serif;
     display: flex;
     margin-bottom: 0.5rem;
     width: 100%;
     font-size: 1.8rem;
-    border: 0.1rem solid rgb(86, 165, 235, 0.25);
-    background-color: white;
+    border: 0.1rem solid #283b8a;
+    background-color: rgb(255, 255, 255);
   }
   
   .choice-container:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    box-shadow: 0 0.4rem 1.4rem 0 #283b8a;
     transform: translateY(-0.1rem);
     transition: transform 150ms;
   }
   
   .choice-prefix {
     padding: 1.5rem 2.5rem;
-    background-color: #56a5eb;
+    background-color: #283b8a;
     color: white;
   }
   
@@ -27,10 +28,12 @@
   
   .correct {
     background-color: #28a745;
+    border-width: 5px;
   }
   
   .incorrect {
-    background-color: #dc3545;
+    background-color: #ff0019;
+    border-width: 5px;
   }
 
   #title{
@@ -45,6 +48,7 @@
   }
   
   .hud-prefix {
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-size: 2rem;
   }
@@ -56,12 +60,16 @@
   #progressBar {
     width: 20rem;
     height: 4rem;
-    border: 0.3rem solid #56a5eb;
+    border: 0.3rem solid #283b8a;
     margin-top: 1.5rem;
   }
   
   #progressBarFull {
     height: 3.4rem;
-    background-color: #56a5eb;
+    background-color: #283b8a;
     width: 0%;
+  }
+  
+  #progressText{
+    font-family: 'Montserrat', sans-serif;
   }

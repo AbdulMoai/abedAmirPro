@@ -33,6 +33,7 @@ header {
 } 
 
 .nav_links li {
+  font-family: 'Montserrat', sans-serif;
   display: inline-block;
   padding: 0px 20px;
 }
@@ -40,7 +41,7 @@ header {
 .nav_links li a {
   transition: all 0.3s ease 0s;
   text-decoration: none;
-  color: #2962ff;
+  color: #283b8a;
 }
 
 .nav_links li a:hover {
@@ -55,7 +56,7 @@ button {
   border: none;
   margin-bottom: 1rem;
   text-decoration: none;
-  color: #2962ff;
+  color: #283b8a;
   background-color: white;
 }
 
@@ -66,7 +67,7 @@ button:hover{
 
 
 :root {
-    background-color: #2962ff;
+    background-color: #283b8a;
     font-size: 62.5%;
   }
   
@@ -81,8 +82,9 @@ button:hover{
   }
   
   h1 {
+    font-family: 'Montserrat', sans-serif;
     font-size: 5.4rem;
-    color: #000000;
+    color: #283b8a;
     margin-bottom: 5rem;
   }
   
@@ -92,12 +94,14 @@ button:hover{
   }
   
   h2 {
+    font-family: 'Montserrat', sans-serif;
     font-size: 4.2rem;
     margin-bottom: 4rem;
     font-weight: 700;
   }
   
   h3 {
+    font-family: 'Montserrat', sans-serif;
     font-size: 2.8rem;
     font-weight: 500;
   }
@@ -143,19 +147,20 @@ button:hover{
   
   /* BUTTONS */
   .btn {
+    font-family: 'Montserrat', sans-serif;
     font-size: 1.8rem;
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
     margin-bottom: 1rem;
     text-decoration: none;
-    color: black;
+    color: #283b8a;
     background-color: white;
   }
   
   .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 #2962ff;
+    box-shadow: 0 0.4rem 1.4rem 0 black;
     transform: translateY(-0.1rem);
     transition: transform 150ms;
   }
@@ -180,7 +185,7 @@ button:hover{
     padding: 1.5rem;
     font-size: 1.8rem;
     border: none;
-    box-shadow: 0 0.1rem 1.4rem 0 #2962ff;
+    box-shadow: 0 0.1rem 1.4rem 0 #283b8a;
   }
   
   input::placeholder {
