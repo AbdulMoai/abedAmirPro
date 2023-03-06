@@ -8,7 +8,6 @@
   background-color:white;
   font-size: large;
 }
-
 .li .a .button{
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
@@ -62,6 +61,14 @@ button {
 
 button:hover{
   color: black;
+}
+
+.moon {
+  padding: auto;
+  background-color: white;
+  box-shadow: 0 0.4rem 1.4rem 0 black;
+  width : 30px;
+  cursor: pointer;
 }
 
 
@@ -170,7 +177,7 @@ button:hover{
     box-shadow: none;
     transform: none;
   }
-  
+
   /* FORMS */
   form {
     width: 100%;
