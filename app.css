@@ -1,15 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;600;700&family=Montserrat:wght@500&display=swap');
+/* NavBar */
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color:white;
+  font-size: large;
+}
+
+.li .a .button{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: 2962ff;
+  text-decoration: none;
+} 
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
+
+.img{
+ height: 60px;
+ cursor: pointer;
+}
+
+.nav_links {
+  list-style: none;
+} 
+
+.nav_links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.nav_links li a {
+  transition: all 0.3s ease 0s;
+  text-decoration: none;
+  color: #2962ff;
+}
+
+.nav_links li a:hover {
+  color: black;
+}
+
+button {
+  font-family: 'Montserrat', sans-serif;
+  transition: all 0.3s ease 0s;
+  font-size: 1.8rem;
+  text-align: center;
+  border: none;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  color: #2962ff;
+  background-color: white;
+}
+
+button:hover{
+  color: black;
+}
+
+
+
 :root {
-    background-color: #ecf5ff;
+    background-color: #2962ff;
     font-size: 62.5%;
   }
   
-  * {
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-    padding: 0;
-    color: #333;
-  }
+
 
 
   h1,
@@ -21,7 +82,7 @@
   
   h1 {
     font-size: 5.4rem;
-    color: #56a5eb;
+    color: #000000;
     margin-bottom: 5rem;
   }
   
@@ -86,16 +147,15 @@
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid #56a5eb;
     margin-bottom: 1rem;
     text-decoration: none;
-    color: #56a5eb;
+    color: black;
     background-color: white;
   }
   
   .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    box-shadow: 0 0.4rem 1.4rem 0 #2962ff;
     transform: translateY(-0.1rem);
     transition: transform 150ms;
   }
@@ -120,7 +180,7 @@
     padding: 1.5rem;
     font-size: 1.8rem;
     border: none;
-    box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    box-shadow: 0 0.1rem 1.4rem 0 #2962ff;
   }
   
   input::placeholder {
