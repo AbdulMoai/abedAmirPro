@@ -198,3 +198,17 @@ button:hover{
   input::placeholder {
     color: #aaa;
   }
+
+  /*    LighrNightMode      */
+  
+  .dark-theme{
+    --primary--color:#283b8a;
+    --secondary--color: white;
+  }
+
+
+  #icon{
+    width: 30px;
+    cursor: pointer;
+    padding: 0;
+  }

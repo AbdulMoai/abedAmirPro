@@ -1,5 +1,5 @@
 .choice-container {
-  font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     display: flex;
     margin-bottom: 0.5rem;
     width: 100%;
@@ -48,7 +48,6 @@
   }
   
   .hud-prefix {
-    font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-size: 2rem;
   }
@@ -60,16 +59,13 @@
   #progressBar {
     width: 20rem;
     height: 4rem;
-    border: 0.3rem solid white;
+    border: 0.3rem solid #56a5eb;
     margin-top: 1.5rem;
   }
   
   #progressBarFull {
     height: 3.4rem;
-    background-color: white;
+    background-color: #56a5eb;
     width: 0%;
   }
   
-  #progressText{
-    font-family: 'Montserrat', sans-serif;
-  }
