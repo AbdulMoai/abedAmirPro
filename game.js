@@ -8,9 +8,6 @@ let score = 0;
 let questionCounter = 0;
 let availableQuesions = [];
 
-let generalQuestions = [];
-let sportQuestions = [];
-
 fetch('questions.json')
     .then((res) => {
         return res.json();

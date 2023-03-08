@@ -205,10 +205,3 @@ button:hover{
     --primary--color:#283b8a;
     --secondary--color: white;
   }
-
-
-  #icon{
-    width: 30px;
-    cursor: pointer;
-    padding: 0;
-  }

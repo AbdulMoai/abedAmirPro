@@ -11,15 +11,17 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+
 body{
-  background: #dfdfdf;
+  background: white;
 }
 
 .wrapper{
+    box-shadow: 0 0.4rem 1.4rem 0 #283b8a;
   display: flex;
   max-width: 560px;
   width: 100%;
-  height: 350px;
+  height: 350px;   
   position: absolute;
   top: 50%;
   left:50%;
@@ -34,14 +36,14 @@ body{
 }
 
 .wrapper .left{
-  background: #283b8a;
+  background: white;
 }
 
 .wrapper .left h3{
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 3px;
-  color: #fff;
+  color: #283b8a;
   font-size: 20px;
 }
 
